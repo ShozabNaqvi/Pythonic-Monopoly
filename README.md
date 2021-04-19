@@ -1,5 +1,5 @@
 # Pythonic-Monopoly
 
 
-![toronto](toronto.png)
+![Python_monopoly](toronto.png)
 
